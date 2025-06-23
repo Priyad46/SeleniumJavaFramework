@@ -10,7 +10,7 @@ public class Events_responsiveness {
 	public static void main(String[] args) {
 
 		WebDriver driver=new ChromeDriver();
-		//driver.get("https://testevents.coinpedia.org/");
+		driver.get("https://testevents.coinpedia.org/");
 		//driver.manage().window().maximize();
 		
 		//Desktop Responsive pixels
