@@ -81,8 +81,7 @@ public class Events_responsiveness {
 }*/
 		//OR
 		
-// ✅ No scrolling for any pixel size
-        
+// ✅ Scrolling for any pixel size
         
 		// Responsive screen sizes (Desktop, Mobile, Tablet)
         Dimension[] screenSizes = {
