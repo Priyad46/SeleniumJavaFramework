@@ -23,7 +23,6 @@ public class LaunchBrowser {
 			System.out.println("Test Failed");
 		}
 		
-		
 		/*String meta_des=driver.getTitle();
 		if(meta_des.equals("Explore upcoming events in the crypto and blockchain eco-system. Stay tuned with coinpedia events calender, wishlist your favourite Event now!"))
 		{
